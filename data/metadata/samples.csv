@@ -1,0 +1,19 @@
+sample_id,label,cell_line,species,treatment,replicate,batch,GEO_library_name,genotype
+W6XWZQ_1,OVCAR5_CON_1,OVCAR5,human,CON,1,OVCAR5_batch1,OVCAR5_Vehicle_Rep1,not specified
+W6XWZQ_2,OVCAR5_NB25_1,OVCAR5,human,NB25,1,OVCAR5_batch1,OVCAR5_NDNB25_Rep1,not specified
+W6XWZQ_3,OVCAR5_CON_2,OVCAR5,human,CON,2,OVCAR5_batch2,OVCAR5_Vehicle_Rep2,not specified
+W6XWZQ_4,OVCAR5_NB25_2,OVCAR5,human,NB25,2,OVCAR5_batch2,OVCAR5_NDNB25_Rep2,not specified
+W6XWZQ_5,OVCAR5_CON_3,OVCAR5,human,CON,3,OVCAR5_batch3,OVCAR5_Vehicle_Rep3,not specified
+W6XWZQ_6,OVCAR5_NB25_3,OVCAR5,human,NB25,3,OVCAR5_batch3,OVCAR5_NDNB25_Rep3,not specified
+W6XWZQ_7,OVCAR8_CON_1,OVCAR8,human,CON,1,OVCAR8_batch1,OVCAR8_Vehicle_Rep1,not specified
+W6XWZQ_8,OVCAR8_NB25_1,OVCAR8,human,NB25,1,OVCAR8_batch1,OVCAR8_NDNB25_Rep1,not specified
+W6XWZQ_9,OVCAR8_CON_2,OVCAR8,human,CON,2,OVCAR8_batch2,OVCAR8_Vehicle_Rep2,not specified
+W6XWZQ_10,OVCAR8_NB25_2,OVCAR8,human,NB25,2,OVCAR8_batch2,OVCAR8_NDNB25_Rep2,not specified
+W6XWZQ_11,OVCAR8_CON_3,OVCAR8,human,CON,3,OVCAR8_batch3,OVCAR8_Vehicle_Rep3,not specified
+W6XWZQ_12,OVCAR8_NB25_3,OVCAR8,human,NB25,3,OVCAR8_batch3,OVCAR8_NDNB25_Rep3,not specified
+W6XWZQ_13,ID8_CON_1,ID8,mouse,CON,1,ID8_batch1,ID8_Vehicle_Rep1,Trp53 knockout
+W6XWZQ_14,ID8_NB25_1,ID8,mouse,NB25,1,ID8_batch1,ID8_NDNB25_Rep1,Trp53 knockout
+W6XWZQ_15,ID8_CON_2,ID8,mouse,CON,2,ID8_batch2,ID8_Vehicle_Rep2,Trp53 knockout
+W6XWZQ_16,ID8_NB25_2,ID8,mouse,NB25,2,ID8_batch2,ID8_NDNB25_Rep2,Trp53 knockout
+W6XWZQ_17,ID8_CON_3,ID8,mouse,CON,3,ID8_batch3,ID8_Vehicle_Rep3,Trp53 knockout
+W6XWZQ_18,ID8_NB25_3,ID8,mouse,NB25,3,ID8_batch3,ID8_NDNB25_Rep3,Trp53 knockout

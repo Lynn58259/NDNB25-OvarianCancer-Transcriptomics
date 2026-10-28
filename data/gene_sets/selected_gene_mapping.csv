@@ -1,0 +1,58 @@
+cell_line,query_gene,display_gene,human_gene,mouse_gene,arm,mapping_method,gene_id,gene_name
+OVCAR5,ACACA,ACACA,ACACA,ACACA,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000278540,ACACA
+OVCAR5,ACLY,ACLY,ACLY,ACLY,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000131473,ACLY
+OVCAR5,DHCR24,DHCR24,DHCR24,DHCR24,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000116133,DHCR24
+OVCAR5,DHCR7,DHCR7,DHCR7,DHCR7,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000172893,DHCR7
+OVCAR5,ELOVL6,ELOVL6,ELOVL6,ELOVL6,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000170522,ELOVL6
+OVCAR5,FADS1,FADS1,FADS1,FADS1,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000149485,FADS1
+OVCAR5,FADS2,FADS2,FADS2,FADS2,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000134824,FADS2
+OVCAR5,FASN,FASN,FASN,FASN,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000169710,FASN
+OVCAR5,FDFT1,FDFT1,FDFT1,FDFT1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000079459,FDFT1
+OVCAR5,FDPS,FDPS,FDPS,FDPS,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000160752,FDPS
+OVCAR5,HMGCR,HMGCR,HMGCR,HMGCR,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000113161,HMGCR
+OVCAR5,HMGCS1,HMGCS1,HMGCS1,HMGCS1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000112972,HMGCS1
+OVCAR5,IDI1,IDI1,IDI1,IDI1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000067064,IDI1
+OVCAR5,MVK,MVK,MVK,MVK,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000110921,MVK
+OVCAR5,SCD,SCD,SCD,SCD1,Fatty-acid / lipogenic,MSigDB ortholog: SCD to Scd1; Scd2 shown separately,ENSG00000099194,SCD
+OVCAR5,,SCD (Scd2),,SCD2,Fatty-acid / lipogenic,MSigDB ortholog: second SCD paralog; no human duplicate,,
+OVCAR5,SQLE,SQLE,SQLE,SQLE,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000104549,SQLE
+OVCAR5,SREBF1,SREBF1,SREBF1,SREBF1,Regulators,MSigDB human-source mouse ortholog metadata,ENSG00000072310,SREBF1
+OVCAR5,SREBF2,SREBF2,SREBF2,SREBF2,Regulators,MSigDB human-source mouse ortholog metadata,ENSG00000198911,SREBF2
+OVCAR8,ACACA,ACACA,ACACA,ACACA,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000278540,ACACA
+OVCAR8,ACLY,ACLY,ACLY,ACLY,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000131473,ACLY
+OVCAR8,DHCR24,DHCR24,DHCR24,DHCR24,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000116133,DHCR24
+OVCAR8,DHCR7,DHCR7,DHCR7,DHCR7,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000172893,DHCR7
+OVCAR8,ELOVL6,ELOVL6,ELOVL6,ELOVL6,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000170522,ELOVL6
+OVCAR8,FADS1,FADS1,FADS1,FADS1,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000149485,FADS1
+OVCAR8,FADS2,FADS2,FADS2,FADS2,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000134824,FADS2
+OVCAR8,FASN,FASN,FASN,FASN,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSG00000169710,FASN
+OVCAR8,FDFT1,FDFT1,FDFT1,FDFT1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000079459,FDFT1
+OVCAR8,FDPS,FDPS,FDPS,FDPS,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000160752,FDPS
+OVCAR8,HMGCR,HMGCR,HMGCR,HMGCR,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000113161,HMGCR
+OVCAR8,HMGCS1,HMGCS1,HMGCS1,HMGCS1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000112972,HMGCS1
+OVCAR8,IDI1,IDI1,IDI1,IDI1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000067064,IDI1
+OVCAR8,MVK,MVK,MVK,MVK,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000110921,MVK
+OVCAR8,SCD,SCD,SCD,SCD1,Fatty-acid / lipogenic,MSigDB ortholog: SCD to Scd1; Scd2 shown separately,ENSG00000099194,SCD
+OVCAR8,,SCD (Scd2),,SCD2,Fatty-acid / lipogenic,MSigDB ortholog: second SCD paralog; no human duplicate,,
+OVCAR8,SQLE,SQLE,SQLE,SQLE,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSG00000104549,SQLE
+OVCAR8,SREBF1,SREBF1,SREBF1,SREBF1,Regulators,MSigDB human-source mouse ortholog metadata,ENSG00000072310,SREBF1
+OVCAR8,SREBF2,SREBF2,SREBF2,SREBF2,Regulators,MSigDB human-source mouse ortholog metadata,ENSG00000198911,SREBF2
+ID8,ACACA,ACACA,ACACA,ACACA,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSMUSG00000020532,Acaca
+ID8,ACLY,ACLY,ACLY,ACLY,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSMUSG00000020917,Acly
+ID8,DHCR24,DHCR24,DHCR24,DHCR24,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000034926,Dhcr24
+ID8,DHCR7,DHCR7,DHCR7,DHCR7,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000058454,Dhcr7
+ID8,ELOVL6,ELOVL6,ELOVL6,ELOVL6,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSMUSG00000041220,Elovl6
+ID8,FADS1,FADS1,FADS1,FADS1,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSMUSG00000010663,Fads1
+ID8,FADS2,FADS2,FADS2,FADS2,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSMUSG00000024665,Fads2
+ID8,FASN,FASN,FASN,FASN,Fatty-acid / lipogenic,MSigDB human-source mouse ortholog metadata,ENSMUSG00000025153,Fasn
+ID8,FDFT1,FDFT1,FDFT1,FDFT1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000021273,Fdft1
+ID8,FDPS,FDPS,FDPS,FDPS,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000059743,Fdps
+ID8,HMGCR,HMGCR,HMGCR,HMGCR,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000021670,Hmgcr
+ID8,HMGCS1,HMGCS1,HMGCS1,HMGCS1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000093930,Hmgcs1
+ID8,IDI1,IDI1,IDI1,IDI1,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000058258,Idi1
+ID8,MVK,MVK,MVK,MVK,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000041939,Mvk
+ID8,SCD1,SCD,SCD,SCD1,Fatty-acid / lipogenic,MSigDB ortholog: SCD to Scd1; Scd2 shown separately,ENSMUSG00000037071,Scd1
+ID8,SCD2,SCD (Scd2),,SCD2,Fatty-acid / lipogenic,MSigDB ortholog: second SCD paralog; no human duplicate,ENSMUSG00000025203,Scd2
+ID8,SQLE,SQLE,SQLE,SQLE,Sterol / cholesterol,MSigDB human-source mouse ortholog metadata,ENSMUSG00000022351,Sqle
+ID8,SREBF1,SREBF1,SREBF1,SREBF1,Regulators,MSigDB human-source mouse ortholog metadata,ENSMUSG00000020538,Srebf1
+ID8,SREBF2,SREBF2,SREBF2,SREBF2,Regulators,MSigDB human-source mouse ortholog metadata,ENSMUSG00000022463,Srebf2

@@ -1,0 +1,9 @@
+human_gene,mouse_gene,ortholog_sources
+ACLY,Acly,EggNOG|Ensembl|HGNC|HomoloGene|Inparanoid|NCBI|OMA|OrthoDB|OrthoMCL|Panther|Treefam
+ELOVL6,Elovl6,EggNOG|Ensembl|HGNC|HomoloGene|Inparanoid|NCBI|OMA|OrthoDB|OrthoMCL|Panther|PhylomeDB|Treefam
+FADS1,Fads1,EggNOG|Ensembl|HGNC|HomoloGene|Inparanoid|NCBI|OMA|OrthoDB|OrthoMCL|Panther|PhylomeDB|Treefam
+SCD,Scd1,HGNC|HomoloGene|OMA|OrthoDB|OrthoMCL|Panther|PhylomeDB|Treefam
+SCD,Scd2,Ensembl|HGNC|Inparanoid|OMA|OrthoDB|OrthoMCL|Panther|Treefam
+FADS2,Fads2,EggNOG|Ensembl|HGNC|HomoloGene|Inparanoid|NCBI|OMA|OrthoDB|OrthoMCL|Panther|PhylomeDB|Treefam
+FASN,Fasn,EggNOG|Ensembl|HGNC|HomoloGene|Inparanoid|NCBI|OMA|OrthoDB|OrthoMCL|Panther|PhylomeDB|Treefam
+ACACA,Acaca,Ensembl|HGNC|HomoloGene|Inparanoid|NCBI|OMA|OrthoDB|OrthoMCL|Panther|PhylomeDB

@@ -1,0 +1,2 @@
+cell_line,gene_set_size,ES,NES,pvalue,log2err,leading_edge,present_genes,mapping_count,tested_gene_count,BH_q_across_three_prespecified_tests
+ID8,8,-0.695455174412096,-1.63725708904997,0.0201970558353155,0.352487857583619,FADS2;SCD2;ACACA;FADS1;ELOVL6;ACLY;SCD1,ACLY;ELOVL6;FADS1;SCD1;SCD2;FADS2;FASN;ACACA,8,13404,0.0302955837529733

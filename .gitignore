@@ -1,0 +1,13 @@
+figures/
+results/quality_control/
+results/differential_expression/*/dds.rds
+.RData
+.Rhistory
+.Rproj.user/
+renv/
+__pycache__/
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+.DS_Store

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Cite this software repository. Manuscript citation and individual author list are pending author confirmation."
+title: "NDNB25 Ovarian Cancer Transcriptomic Profiling"
+authors:
+  - name: "Authors pending confirmation"
+type: software
+license: MIT
+abstract: "Reproduction of manuscript transcriptomic analyses in OVCAR5, OVCAR8 and ID8 Trp53-knockout cells following NDNB25 treatment."

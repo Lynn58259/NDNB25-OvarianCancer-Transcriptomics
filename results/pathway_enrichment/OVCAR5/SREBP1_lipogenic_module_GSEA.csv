@@ -1,0 +1,2 @@
+cell_line,gene_set_size,ES,NES,pvalue,log2err,leading_edge,present_genes,mapping_count,tested_gene_count,BH_q_across_three_prespecified_tests
+OVCAR5,7,-0.768101996632187,-1.66318821560092,0.0117067632917029,0.380730400722792,SCD;ELOVL6;FADS2;ACLY;FASN;ACACA;FADS1,FASN;ACACA;ACLY;SCD;ELOVL6;FADS1;FADS2,7,8321,0.0302955837529733
