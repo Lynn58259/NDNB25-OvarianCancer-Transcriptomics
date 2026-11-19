@@ -1,0 +1,15 @@
+# Optional isolated restore. Run from the repository root.
+if (!file.exists('renv.lock')) stop('Run from the repository root.')
+if (getRversion() != '4.5.1') stop('The locked analysis requires R 4.5.1.')
+if (!requireNamespace('renv', quietly=TRUE)) stop("Install renv first: install.packages('renv', repos='https://cloud.r-project.org')")
+lib <- file.path(getwd(), 'renv', 'library')
+dir.create(lib, recursive=TRUE, showWarnings=FALSE)
+renv::restore(project=getwd(), lockfile='renv.lock', library=lib, prompt=FALSE)
+lock <- renv::lockfile_read('renv.lock')
+p <- installed.packages(lib.loc=c(lib, .Library))
+expected <- vapply(lock$Packages, function(x) x$Version, character(1))
+bad <- names(expected)[!names(expected) %in% rownames(p)]
+present <- intersect(names(expected), rownames(p))
+bad <- union(bad, present[p[present, 'Version'] != expected[present]])
+if (length(bad)) stop('Restore incomplete or versions differ: ', paste(bad, collapse=', '))
+message('Locked package versions verified. Run with .libPaths(c("renv/library", .libPaths())).')

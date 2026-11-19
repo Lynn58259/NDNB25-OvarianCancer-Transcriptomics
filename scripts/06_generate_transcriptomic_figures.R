@@ -126,7 +126,7 @@ curves <- lapply(seq_along(models),function(i){
  p_curve <- ggplot(curve,aes(rank,running_ES))+geom_hline(yintercept=0,color='#BEC3C6',linewidth=.3)+
   geom_line(color='#318A68',linewidth=.85)+
   coord_cartesian(ylim=c(-.86,.24),xlim=c(1,nrow(r)),expand=FALSE)+
-  labs(title=paste0(LETTERS[i],'. ',z),subtitle=sprintf('NES = %.2f; BH q = %.4f',q$NES,q$BH_q_across_three_prespecified_tests),
+  labs(title=paste0(LETTERS[i],'. ',z),subtitle=sprintf('NES = %.2f\nBH q = %.4f',q$NES,q$BH_q_across_three_prespecified_tests),
    x=NULL,y='Running enrichment score')+
   theme_classic(base_size=11)+theme(plot.title=element_text(size=14,face='bold'),plot.subtitle=element_text(size=11),
    axis.title.y=element_text(size=11),axis.text.y=element_text(size=10),axis.text.x=element_blank(),axis.ticks.x=element_blank(),

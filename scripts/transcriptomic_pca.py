@@ -16,4 +16,4 @@ for model in ['OVCAR5','OVCAR8','ID8']:
     pp.to_csv(root/f'results/plot_data/{model}_paired_VST_PCA_scores.csv',index=False)
     variance.append(dict(cell_line=model,PC1_percent=100*ev[0],PC2_percent=100*ev[1]))
 pd.DataFrame(variance).to_csv(root/'results/plot_data/VST_PCA_variance.csv',index=False)
-(root/'environment/python_versions.txt').write_text(f'NumPy {np.__version__}\npandas {pd.__version__}\n')
+(root/'results/quality_control/python_versions.txt').write_text(f'NumPy {np.__version__}\npandas {pd.__version__}\n')

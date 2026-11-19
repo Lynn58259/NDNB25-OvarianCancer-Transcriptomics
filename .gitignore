@@ -1,13 +1,54 @@
+# Generated graphics and intermediate analysis objects
 figures/
 results/quality_control/
 results/differential_expression/*/dds.rds
+
+# Internal reports stay local. Put future internal reports in these directories.
+/RELEASE_AUDIT*.md
+/internal_reports/
+/internal_audit/
+/internal_audits/
+/audit_reports/
+/release_audit_*/
+
+# R session state and local configuration
 .RData
 .Rhistory
 .Rproj.user/
+*.Rout
+Rplots.pdf
+.Renviron
+.Renviron.*
+.Rprofile.local
+
+# Optional manually invoked renv setup: no activation/bootstrap files required.
+# Keep the top-level renv.lock and environment/restore_locked.R eligible for Git.
 renv/
+.cache/
+
+# Python environments and caches
+.venv/
+venv/
 __pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw sequencing files are outside this processed-matrix release.
 *.fastq
 *.fastq.gz
 *.bam
 *.bai
+
+# Temporary files, runtime logs, and machine-specific editor/OS files
+*.log
+*.tmp
+*.temp
+*~
+~$*
+.vscode/
+.idea/
 .DS_Store
+Thumbs.db
+Desktop.ini
+comparison.csv
